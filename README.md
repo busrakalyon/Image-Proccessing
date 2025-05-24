@@ -1,2 +1,2 @@
 # Image-Proccessing
-https://github.com/busrakalyon/Image-Proccessing/blob/main/line-circle%20detection.pdf
+https://github.com/busrakalyon/Image-Proccessing/blob/main/line-circle_detection.pdf
